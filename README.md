@@ -44,8 +44,8 @@ usando **React Native**, **Spring Boot**, y **MySQL**.
 
 ## Cómo contactarme
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin) *(agrega tu enlace aquí)*  
-- **enriqueisrael.torres@example.com** *(pon tu correo profesional)*  
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin) *linkedin.com/in/enrique-israel-torres-mendoza-287095196*  
+- **sirilo99x3@gmail.com** 
 - [GitHub](https://github.com/EnriqueIsra)
 
 ---
