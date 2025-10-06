@@ -1,7 +1,7 @@
 # ¡Hola! Soy Enrique Israel Torres Mendoza  
 
 **Desarrollador Full Stack Junior** con experiencia en **Java**, **React**, **React Native**, **Spring Boot**.  
-Apasionado por crear aplicaciones funcionales, limpias y bien estructuradas. Me gusta el desarrollo web, desarrollo de aplicaciones móviles, desarrollo FullStack.   
+Apasionado por crear aplicaciones funcionales, limpias y bien estructuradas. Me gusta el desarrollo web, desarrollo de aplicaciones móviles y desarrollo FullStack.   
 Actualmente sigo perfeccionando mis habilidades en desarrollo móvil y backend con Java, desarrollo FullStack con Java, React, React Native y Desarrollo Web.  
 
 ---
