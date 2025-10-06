@@ -37,7 +37,6 @@ usando **React Native**, **Spring Boot**, y **MySQL**.
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| [AppFlowers](https://github.com/JosueAlvarado50/appFlowers) | Aplicación móvil para registrar y gestionar plantas de cualquier tipo | React Native, Firebase |
 | [Componente PayPal](https://github.com/EnriqueIsra/Componente-PayPal-React) | Botón de pago con PayPal (monto fijo, Smart Buttons) | React, PayPal SDK |
 | [API REST Java](https://github.com/EnriqueIsra/curso-java-argentino) | Ejemplo de API REST creada con Spring Boot | Java, Spring Boot, MySQL |
 
