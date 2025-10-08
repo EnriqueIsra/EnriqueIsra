@@ -13,7 +13,7 @@ Actualmente sigo perfeccionando mis habilidades en desarrollo móvil y backend c
 - MySQL / JPA / Hibernate
 - APIs REST
 
-### 📱 Frontend & Mobile
+### Frontend & Mobile
 - React Native / Expo
 - React JS
 - HTML / CSS / JavaScript
